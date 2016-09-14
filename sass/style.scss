@@ -1,1 +1,62 @@
 @import './normalize';
+
+$top-margin: 3rem;
+$left-margin: 10rem;
+
+h1 {
+  line-height: $top-margin;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+header {
+  position: absolute;
+  left:0;
+  right:0;
+  height: $top-margin;
+  box-shadow: 0 8px 6px -6px #999;
+}
+
+aside {
+  position: absolute;
+  top: $top-margin;
+  left: 0;
+  width: $left-margin;
+  bottom:0;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0 0 1rem;
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+  }
+}
+
+router-view {
+  position: absolute;
+  top: $top-margin;
+  left: $left-margin;
+  right: 0;
+  bottom: 0;
+  padding-left: 1rem;
+}
+
+.toolbar {
+  display: flex;
+}
+
+button {
+  width: 5rem;
+  height: 1.5rem;
+}
+
+ul {
+  overflow: auto;
+}

@@ -1,3 +1,15 @@
 <template>
-    <h1>Dom Performance Test</h1>
+    <h2>Dom Performance Test - ${dataState} (${dataCount} rows)</h2>
+    <div class="toolbar">
+        <button click.delegate="clean($event)">Clean</button>
+        <button click.delegate="thrash($event)">Trash</button>
+        <button click.delegate="trashPerFrame($event)">Frame</button>
+        <button click.delegate="inject($event)">Inject</button>
+        <button click.delegate="batch($event)">Batch</button>
+        <button click.delegate="fragment($event)">Fragment</button>
+        <button click.delegate="time($event)">Time</button>
+    </div>
+    <div>Duration: ${duration}</div>
+    <ul id="itemsContainer">
+    </ul>
 </template>

@@ -1,3 +1,14 @@
 <template>
+    <header>
+        <h1>Performance Testing</h1>
+    </header>
+    <aside>
+        <ul>
+            <li repeat.for="row of router.navigation">
+                <a href.bind="row.href">${row.title}</a>
+            </li>
+        </ul>
+    </aside>
+
     <router-view></router-view>
 </template>
