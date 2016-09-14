@@ -1,0 +1,3025 @@
+{
+    "machine": "42c72450-0f7a-495c-b783-f3c17e92cfdf",
+    "data": [
+        {
+            "id": -3597,
+            "parent_asset_type_id": 1032,
+            "code": "FOD_SCALE",
+            "description": "Electronic Scales",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2015-10-05T12:33:53.727"
+        },
+        {
+            "id": -3589,
+            "parent_asset_type_id": 1,
+            "code": "DB",
+            "description": "DB RESTORE",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2014-08-19T12:40:36.46"
+        },
+        {
+            "id": -1586,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_DOPING_SYS",
+            "description": "Doping System",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1583,
+            "parent_asset_type_id": 1,
+            "code": "CHAR",
+            "description": "PRAGMA AFRICA CHARGES",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1579,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_FCNT",
+            "description": "Counter",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:43:06.307"
+        },
+        {
+            "id": -1576,
+            "parent_asset_type_id": 1,
+            "code": "RS_CO",
+            "description": "Retail Site - Company Owned",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2014-05-29T12:38:31.15"
+        },
+        {
+            "id": -1570,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_CWIN",
+            "description": "Car Wash Instruction Signs",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:59.823"
+        },
+        {
+            "id": -1568,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_CWBO",
+            "description": "Car Wash Bollards",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:57.79"
+        },
+        {
+            "id": -1567,
+            "parent_asset_type_id": 1000,
+            "code": "SAF_LOCK",
+            "description": "Locks",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:56.557"
+        },
+        {
+            "id": -1553,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_ANCY",
+            "description": "Ancillary",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:46.463"
+        },
+        {
+            "id": -1526,
+            "parent_asset_type_id": 1,
+            "code": "PEN",
+            "description": "Penalties",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1525,
+            "parent_asset_type_id": 1,
+            "code": "FMR",
+            "description": "FMC Remittance",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1521,
+            "parent_asset_type_id": 1519,
+            "code": "Meter_BOT",
+            "description": "Meter_BOT",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1110,
+            "parent_asset_type_id": 1000,
+            "code": "BREADDIV",
+            "description": "Dough Divider",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1109,
+            "parent_asset_type_id": 1000,
+            "code": "FOODW",
+            "description": "Food Wrapper",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1107,
+            "parent_asset_type_id": 1000,
+            "code": "BUND",
+            "description": "Bun Divider",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1102,
+            "parent_asset_type_id": 1000,
+            "code": "BUILD",
+            "description": "Buildings",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1100,
+            "parent_asset_type_id": 1000,
+            "code": "POTP",
+            "description": "Potato Peeler",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1098,
+            "parent_asset_type_id": 1000,
+            "code": "CHIPC",
+            "description": "Chip Cutter",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1097,
+            "parent_asset_type_id": 1000,
+            "code": "BREAD",
+            "description": "Bread Slicer",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1095,
+            "parent_asset_type_id": 1000,
+            "code": "POPC",
+            "description": "Popcorn Machine",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1094,
+            "parent_asset_type_id": 1000,
+            "code": "DMIX",
+            "description": "Dough Mixer",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1093,
+            "parent_asset_type_id": 1000,
+            "code": "PUP",
+            "description": "Slush Puppie Machine",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1092,
+            "parent_asset_type_id": 1000,
+            "code": "CON_COM",
+            "description": "Communications Systems",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:39.04"
+        },
+        {
+            "id": -1091,
+            "parent_asset_type_id": 1000,
+            "code": "WC",
+            "description": "Water Coolers",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1090,
+            "parent_asset_type_id": 1000,
+            "code": "ISLAND",
+            "description": "Pump Islands",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1085,
+            "parent_asset_type_id": 1000,
+            "code": "WST",
+            "description": "Water Storage Tank",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1076,
+            "parent_asset_type_id": 1000,
+            "code": "SEWS",
+            "description": "Sewerage System",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1072,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_SCAL",
+            "description": "Food Scales",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:30.51"
+        },
+        {
+            "id": -1071,
+            "parent_asset_type_id": 1000,
+            "code": "SAF_SAFE",
+            "description": "Safes",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:29.887"
+        },
+        {
+            "id": -1065,
+            "parent_asset_type_id": 1000,
+            "code": "PWRT",
+            "description": "Power Supplies Transformer",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1064,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_DISP",
+            "description": "Dispenser",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:35.853"
+        },
+        {
+            "id": -1063,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_PROV",
+            "description": "Prover",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:24.713"
+        },
+        {
+            "id": -1062,
+            "parent_asset_type_id": 1000,
+            "code": "PRM_MONO",
+            "description": "Prime Sign",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:35.057"
+        },
+        {
+            "id": -1061,
+            "parent_asset_type_id": 1000,
+            "code": "PRM",
+            "description": "Primary Signs",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:23.197"
+        },
+        {
+            "id": -1060,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_POST",
+            "description": "Poster Frames",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:22.4"
+        },
+        {
+            "id": -1059,
+            "parent_asset_type_id": 1000,
+            "code": "PRM_PORT",
+            "description": "Porticos",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:34.243"
+        },
+        {
+            "id": -1058,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_PLUM",
+            "description": "Plumbing",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:33.323"
+        },
+        {
+            "id": -1057,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_PIPE",
+            "description": "Pipework",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:32.493"
+        },
+        {
+            "id": -1056,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_PARK",
+            "description": "Car Parking Area",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:31.777"
+        },
+        {
+            "id": -1055,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_OVEN",
+            "description": "Ovens",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:31.167"
+        },
+        {
+            "id": -1053,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_MICR",
+            "description": "Microwaves",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:16.323"
+        },
+        {
+            "id": -1052,
+            "parent_asset_type_id": 1000,
+            "code": "MH",
+            "description": "Manholes",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1050,
+            "parent_asset_type_id": 1000,
+            "code": "ELC_LASP",
+            "description": "Lightning and Surge Protection",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:14.243"
+        },
+        {
+            "id": -1049,
+            "parent_asset_type_id": 1000,
+            "code": "ELC_LGHT",
+            "description": "Lighting Systems",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:29.807"
+        },
+        {
+            "id": -1048,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_LEAK",
+            "description": "Leak Detection System",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:29.103"
+        },
+        {
+            "id": -1047,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_LEAD",
+            "description": "Leader Boards",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:11.713"
+        },
+        {
+            "id": -1046,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_LBOX",
+            "description": "Spreader Boxes",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:10.933"
+        },
+        {
+            "id": -1045,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_LAND",
+            "description": "Landscaping",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:10.137"
+        },
+        {
+            "id": -1044,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_KERB",
+            "description": "Kerbing",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:28.37"
+        },
+        {
+            "id": -1043,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_JUIC",
+            "description": "Juice Dispensers",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:08.62"
+        },
+        {
+            "id": -1040,
+            "parent_asset_type_id": 1000,
+            "code": "HVC",
+            "description": "Heating, Ventilation & Air Condition",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:06.37"
+        },
+        {
+            "id": -1039,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_HOT",
+            "description": "Heating Plate",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:05.743"
+        },
+        {
+            "id": -1038,
+            "parent_asset_type_id": 1000,
+            "code": "DRN_INCP",
+            "description": "Interceptors",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:27.433"
+        },
+        {
+            "id": -1037,
+            "parent_asset_type_id": 1000,
+            "code": "DRN_FW",
+            "description": "Foul Water Drainage",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:26.183"
+        },
+        {
+            "id": -1036,
+            "parent_asset_type_id": 1000,
+            "code": "FSY",
+            "description": "Fuel Systems",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1035,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_FRY",
+            "description": "Fryer",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:03.387"
+        },
+        {
+            "id": -1034,
+            "parent_asset_type_id": 1000,
+            "code": "REF_FRID",
+            "description": "Fridges",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:25.04"
+        },
+        {
+            "id": -1033,
+            "parent_asset_type_id": 1000,
+            "code": "REF_FREZ",
+            "description": "Freezers",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:24.213"
+        },
+        {
+            "id": -1032,
+            "parent_asset_type_id": 1000,
+            "code": "FOD",
+            "description": "Food Service Equipment",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2015-01-14T07:30:47.077"
+        },
+        {
+            "id": -1030,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_FILL",
+            "description": "Vehicle Refuelling Area",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:23.307"
+        },
+        {
+            "id": -1029,
+            "parent_asset_type_id": 1000,
+            "code": "FILC",
+            "description": "Filler Caps",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1028,
+            "parent_asset_type_id": 1000,
+            "code": "FCT",
+            "description": "Forecourt Elements",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:58.62"
+        },
+        {
+            "id": -1027,
+            "parent_asset_type_id": 1000,
+            "code": "CON_FCC",
+            "description": "Forecourt Controller System",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:57.933"
+        },
+        {
+            "id": -1026,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_EXUN",
+            "description": "Extraction Unit",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:22.527"
+        },
+        {
+            "id": -1025,
+            "parent_asset_type_id": 1000,
+            "code": "DRN_ETP",
+            "description": "Effluent Treatment Plant",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:21.837"
+        },
+        {
+            "id": -1024,
+            "parent_asset_type_id": 1000,
+            "code": "ELC_ERTH",
+            "description": "Earthing Systems",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:21.133"
+        },
+        {
+            "id": -1023,
+            "parent_asset_type_id": 1000,
+            "code": "ELC",
+            "description": "Electrical Systems / Power Supply Systems",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:54.84"
+        },
+        {
+            "id": -1022,
+            "parent_asset_type_id": 1000,
+            "code": "HVC_DUCT",
+            "description": "Ductwork",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:53.697"
+        },
+        {
+            "id": -1021,
+            "parent_asset_type_id": 1000,
+            "code": "DRN",
+            "description": "Drainage Systems",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:52.963"
+        },
+        {
+            "id": -1020,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_DOOR",
+            "description": "Doors",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:18.65"
+        },
+        {
+            "id": -1019,
+            "parent_asset_type_id": 1000,
+            "code": "ELC_DIST",
+            "description": "Distribution Systems",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-05-30T08:25:50.363"
+        },
+        {
+            "id": -1018,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_DISC",
+            "description": "Tanker Discharge Area",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:16.307"
+        },
+        {
+            "id": -1017,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_DIR",
+            "description": "Direction Signs",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:50.353"
+        },
+        {
+            "id": -1016,
+            "parent_asset_type_id": 1000,
+            "code": "DIPC",
+            "description": "Dip Caps",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1015,
+            "parent_asset_type_id": 1000,
+            "code": "CON",
+            "description": "Electronic Control Equipment",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:49.777"
+        },
+        {
+            "id": -1014,
+            "parent_asset_type_id": 1000,
+            "code": "WRK_COMP",
+            "description": "Compressors",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-05-30T08:30:32.133"
+        },
+        {
+            "id": -1013,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_PIEW",
+            "description": "Pie Display Warmer Unit",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:48.54"
+        },
+        {
+            "id": -1012,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_CAKE",
+            "description": "Cake Display Unit",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:47.76"
+        },
+        {
+            "id": -1011,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_MISC",
+            "description": "Food Miscellaneous",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:46.243"
+        },
+        {
+            "id": -1010,
+            "parent_asset_type_id": 1000,
+            "code": "CCTV",
+            "description": "CCTV Equipment",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1009,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_CAR",
+            "description": "Carwash Building",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:44.887"
+        },
+        {
+            "id": -1008,
+            "parent_asset_type_id": 1000,
+            "code": "PRM_CANO",
+            "description": "Canopy Fascia",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:14.807"
+        },
+        {
+            "id": -1007,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_CAN",
+            "description": "Canopy",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T09:58:47.103"
+        },
+        {
+            "id": -1006,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_BOUN",
+            "description": "Boundary",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:12.993"
+        },
+        {
+            "id": -1005,
+            "parent_asset_type_id": 1000,
+            "code": "BLD",
+            "description": "Buildings & Structures",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:41.103"
+        },
+        {
+            "id": -1004,
+            "parent_asset_type_id": 1000,
+            "code": "AIRL",
+            "description": "Air Lines & Air Guages",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": -1003,
+            "parent_asset_type_id": 1000,
+            "code": "HVC_AIR",
+            "description": "Aircon Units",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:10.743"
+        },
+        {
+            "id": 0,
+            "parent_asset_type_id": null,
+            "code": "UNKNOWN",
+            "description": "UNKNOWN",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 0,
+            "last_confirmed_on": null
+        },
+        {
+            "id": 1,
+            "parent_asset_type_id": null,
+            "code": "ROOT",
+            "description": "ROOT",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 0,
+            "last_confirmed_on": null
+        },
+        {
+            "id": 1000,
+            "parent_asset_type_id": 1,
+            "code": "GROUP",
+            "description": "Grouping",
+            "development_status": 7,
+            "record_type": 0,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1001,
+            "parent_asset_type_id": 1,
+            "code": "RS_COCL",
+            "description": "Retail Site - Company Owned/Company Leased",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2014-01-04T06:21:28.04"
+        },
+        {
+            "id": 1002,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_MISC",
+            "description": "Miscellaneous Signs",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:38.103"
+        },
+        {
+            "id": 1003,
+            "parent_asset_type_id": 1000,
+            "code": "HVC_AIR",
+            "description": "Aircon Units",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:10.743"
+        },
+        {
+            "id": 1004,
+            "parent_asset_type_id": 1000,
+            "code": "AIRL",
+            "description": "Air Lines & Air Guages",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1005,
+            "parent_asset_type_id": 1000,
+            "code": "BLD",
+            "description": "Buildings & Structures",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:41.103"
+        },
+        {
+            "id": 1006,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_BOUN",
+            "description": "Boundary",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:12.993"
+        },
+        {
+            "id": 1007,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_CAN",
+            "description": "Canopy",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T09:58:47.103"
+        },
+        {
+            "id": 1008,
+            "parent_asset_type_id": 1000,
+            "code": "PRM_CANO",
+            "description": "Canopy Fascia",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:14.807"
+        },
+        {
+            "id": 1009,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_CAR",
+            "description": "Carwash Building",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:44.887"
+        },
+        {
+            "id": 1010,
+            "parent_asset_type_id": 1000,
+            "code": "CCTV",
+            "description": "CCTV Equipment",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1011,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_MISC",
+            "description": "Food Miscellaneous",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:46.243"
+        },
+        {
+            "id": 1012,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_CAKE",
+            "description": "Cake Display Unit",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:47.76"
+        },
+        {
+            "id": 1013,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_PIEW",
+            "description": "Pie Display Warmer Unit",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:48.54"
+        },
+        {
+            "id": 1014,
+            "parent_asset_type_id": 1000,
+            "code": "WRK_COMP",
+            "description": "Compressors",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-05-30T08:30:32.133"
+        },
+        {
+            "id": 1015,
+            "parent_asset_type_id": 1000,
+            "code": "CON",
+            "description": "Electronic Control Equipment",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:49.777"
+        },
+        {
+            "id": 1016,
+            "parent_asset_type_id": 1000,
+            "code": "DIPC",
+            "description": "Dip Caps",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1017,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_DIR",
+            "description": "Direction Signs",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:50.353"
+        },
+        {
+            "id": 1018,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_DISC",
+            "description": "Tanker Discharge Area",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:16.307"
+        },
+        {
+            "id": 1019,
+            "parent_asset_type_id": 1000,
+            "code": "ELC_DIST",
+            "description": "Distribution Systems",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-05-30T08:25:50.363"
+        },
+        {
+            "id": 1020,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_DOOR",
+            "description": "Doors",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:18.65"
+        },
+        {
+            "id": 1021,
+            "parent_asset_type_id": 1000,
+            "code": "DRN",
+            "description": "Drainage Systems",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:52.963"
+        },
+        {
+            "id": 1022,
+            "parent_asset_type_id": 1000,
+            "code": "HVC_DUCT",
+            "description": "Ductwork",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:53.697"
+        },
+        {
+            "id": 1023,
+            "parent_asset_type_id": 1000,
+            "code": "ELC",
+            "description": "Electrical Systems / Power Supply Systems",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:54.84"
+        },
+        {
+            "id": 1024,
+            "parent_asset_type_id": 1000,
+            "code": "ELC_ERTH",
+            "description": "Earthing Systems",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:21.133"
+        },
+        {
+            "id": 1025,
+            "parent_asset_type_id": 1000,
+            "code": "DRN_ETP",
+            "description": "Effluent Treatment Plant",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:21.837"
+        },
+        {
+            "id": 1026,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_EXUN",
+            "description": "Extraction Unit",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:22.527"
+        },
+        {
+            "id": 1027,
+            "parent_asset_type_id": 1000,
+            "code": "CON_FCC",
+            "description": "Forecourt Controller System",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:57.933"
+        },
+        {
+            "id": 1028,
+            "parent_asset_type_id": 1000,
+            "code": "FCT",
+            "description": "Forecourt Elements",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:41:58.62"
+        },
+        {
+            "id": 1029,
+            "parent_asset_type_id": 1000,
+            "code": "FILC",
+            "description": "Filler Caps",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1030,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_FILL",
+            "description": "Vehicle Refuelling Area",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:23.307"
+        },
+        {
+            "id": 1031,
+            "parent_asset_type_id": 1000,
+            "code": "SAF_FIRE",
+            "description": "Fire Equipment",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:00.04"
+        },
+        {
+            "id": 1032,
+            "parent_asset_type_id": 1000,
+            "code": "FOD",
+            "description": "Food Service Equipment",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2015-01-14T07:30:47.077"
+        },
+        {
+            "id": 1033,
+            "parent_asset_type_id": 1000,
+            "code": "REF_FREZ",
+            "description": "Freezers",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:24.213"
+        },
+        {
+            "id": 1034,
+            "parent_asset_type_id": 1000,
+            "code": "REF_FRID",
+            "description": "Fridges",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:25.04"
+        },
+        {
+            "id": 1035,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_FRY",
+            "description": "Fryer",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:03.387"
+        },
+        {
+            "id": 1036,
+            "parent_asset_type_id": 1000,
+            "code": "FSY",
+            "description": "Fuel Systems",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1037,
+            "parent_asset_type_id": 1000,
+            "code": "DRN_FW",
+            "description": "Foul Water Drainage",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:26.183"
+        },
+        {
+            "id": 1038,
+            "parent_asset_type_id": 1000,
+            "code": "DRN_INCP",
+            "description": "Interceptors",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:27.433"
+        },
+        {
+            "id": 1039,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_HOT",
+            "description": "Heating Plate",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:05.743"
+        },
+        {
+            "id": 1040,
+            "parent_asset_type_id": 1000,
+            "code": "HVC",
+            "description": "Heating, Ventilation & Air Condition",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:06.37"
+        },
+        {
+            "id": 1041,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_GRAD",
+            "description": "ID Tags",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:07.137"
+        },
+        {
+            "id": 1042,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_INFO",
+            "description": "Infor./Facility Sign",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:07.947"
+        },
+        {
+            "id": 1043,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_JUIC",
+            "description": "Juice Dispensers",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:08.62"
+        },
+        {
+            "id": 1044,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_KERB",
+            "description": "Kerbing",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:28.37"
+        },
+        {
+            "id": 1045,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_LAND",
+            "description": "Landscaping",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:10.137"
+        },
+        {
+            "id": 1046,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_LBOX",
+            "description": "Spreader Boxes",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:10.933"
+        },
+        {
+            "id": 1047,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_LEAD",
+            "description": "Leader Boards",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:11.713"
+        },
+        {
+            "id": 1048,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_LEAK",
+            "description": "Leak Detection System",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:29.103"
+        },
+        {
+            "id": 1049,
+            "parent_asset_type_id": 1000,
+            "code": "ELC_LGHT",
+            "description": "Lighting Systems",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:29.807"
+        },
+        {
+            "id": 1050,
+            "parent_asset_type_id": 1000,
+            "code": "ELC_LASP",
+            "description": "Lightning and Surge Protection",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:14.243"
+        },
+        {
+            "id": 1051,
+            "parent_asset_type_id": 1000,
+            "code": "WRK_LIFT",
+            "description": "Hoists",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:15.353"
+        },
+        {
+            "id": 1052,
+            "parent_asset_type_id": 1000,
+            "code": "MH",
+            "description": "Manholes",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1053,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_MICR",
+            "description": "Microwaves",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:16.323"
+        },
+        {
+            "id": 1054,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_NAME",
+            "description": "Name Signs",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:16.9"
+        },
+        {
+            "id": 1055,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_OVEN",
+            "description": "Oven",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:31.167"
+        },
+        {
+            "id": 1056,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_PARK",
+            "description": "Car Parking Area",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:31.777"
+        },
+        {
+            "id": 1057,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_PIPE",
+            "description": "Pipework",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:32.493"
+        },
+        {
+            "id": 1058,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_PLUM",
+            "description": "Plumbing",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:33.323"
+        },
+        {
+            "id": 1059,
+            "parent_asset_type_id": 1000,
+            "code": "PRM_PORT",
+            "description": "Porticos",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:34.243"
+        },
+        {
+            "id": 1060,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_POST",
+            "description": "Poster Frames",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:22.4"
+        },
+        {
+            "id": 1061,
+            "parent_asset_type_id": 1000,
+            "code": "PRM",
+            "description": "Primary Signs",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:23.197"
+        },
+        {
+            "id": 1062,
+            "parent_asset_type_id": 1000,
+            "code": "PRM_MONO",
+            "description": "Prime Sign",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:35.057"
+        },
+        {
+            "id": 1063,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_PROV",
+            "description": "Prover",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:24.713"
+        },
+        {
+            "id": 1064,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_DISP",
+            "description": "Dispenser",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:35.853"
+        },
+        {
+            "id": 1065,
+            "parent_asset_type_id": 1000,
+            "code": "PWRT",
+            "description": "Power Supplies Transformer",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1066,
+            "parent_asset_type_id": 1000,
+            "code": "ELC_PWR",
+            "description": "Power Supplies",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2015-08-04T10:12:28.68"
+        },
+        {
+            "id": 1067,
+            "parent_asset_type_id": 1000,
+            "code": "SAF_RAM",
+            "description": "Anti-Ram Bollards",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:27.04"
+        },
+        {
+            "id": 1068,
+            "parent_asset_type_id": 1000,
+            "code": "REF",
+            "description": "Refrigeration Systems",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:27.65"
+        },
+        {
+            "id": 1069,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_ROOF",
+            "description": "Roof",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:37.137"
+        },
+        {
+            "id": 1070,
+            "parent_asset_type_id": 1000,
+            "code": "SAF",
+            "description": "Safety & Security Equipment",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:29.167"
+        },
+        {
+            "id": 1071,
+            "parent_asset_type_id": 1000,
+            "code": "SAF_SAFE",
+            "description": "Safes",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:29.887"
+        },
+        {
+            "id": 1072,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_SCAL",
+            "description": "Food Scales",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:30.51"
+        },
+        {
+            "id": 1073,
+            "parent_asset_type_id": 1000,
+            "code": "SEC",
+            "description": "Secondary Signs",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:31.12"
+        },
+        {
+            "id": 1074,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_SERV",
+            "description": "Service Unit/Waste Bin",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:38.59"
+        },
+        {
+            "id": 1075,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_SHOP",
+            "description": "Shop / Sales Building",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:39.62"
+        },
+        {
+            "id": 1076,
+            "parent_asset_type_id": 1000,
+            "code": "SEWS",
+            "description": "Sewerage System",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1077,
+            "parent_asset_type_id": 1000,
+            "code": "DRN_PUMP",
+            "description": "Sewerage Displacement Pump",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:40.667"
+        },
+        {
+            "id": 1078,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_SURF",
+            "description": "Surface / Pavement",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:41.887"
+        },
+        {
+            "id": 1079,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_TANK",
+            "description": "Fuel Tanks",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:43.043"
+        },
+        {
+            "id": 1080,
+            "parent_asset_type_id": 1000,
+            "code": "ELC_UPS",
+            "description": "Uninterruptible power supply",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:44.197"
+        },
+        {
+            "id": 1081,
+            "parent_asset_type_id": 1000,
+            "code": "VR",
+            "description": "Veeder Root",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1082,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_WIND",
+            "description": "Windows",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:45.59"
+        },
+        {
+            "id": 1083,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_WKSP",
+            "description": "Workshop Building",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:46.853"
+        },
+        {
+            "id": 1084,
+            "parent_asset_type_id": 1000,
+            "code": "WRK",
+            "description": "Workshop Equipment",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:37.463"
+        },
+        {
+            "id": 1085,
+            "parent_asset_type_id": 1000,
+            "code": "WST",
+            "description": "Water Storage Tank",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1086,
+            "parent_asset_type_id": 1000,
+            "code": "VLT_CIRC",
+            "description": "Water Reticulation System",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:48.137"
+        },
+        {
+            "id": 1087,
+            "parent_asset_type_id": 1000,
+            "code": "WPUMP",
+            "description": "Water Reticulation Pump",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1088,
+            "parent_asset_type_id": 1000,
+            "code": "FPUMP",
+            "description": "Fire Fighting Pump",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1090,
+            "parent_asset_type_id": 1000,
+            "code": "ISLAND",
+            "description": "Pump Islands",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1091,
+            "parent_asset_type_id": 1000,
+            "code": "WC",
+            "description": "Water Coolers",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1092,
+            "parent_asset_type_id": 1000,
+            "code": "CON_COM",
+            "description": "Communications Systems",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:39.04"
+        },
+        {
+            "id": 1093,
+            "parent_asset_type_id": 1000,
+            "code": "PUP",
+            "description": "Slush Puppie Machine",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1094,
+            "parent_asset_type_id": 1000,
+            "code": "DMIX",
+            "description": "Dough Mixer",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1095,
+            "parent_asset_type_id": 1000,
+            "code": "POPC",
+            "description": "Popcorn Machine",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1096,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_CRUS",
+            "description": "Ice Dispenser",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-05-29T12:37:32.46"
+        },
+        {
+            "id": 1097,
+            "parent_asset_type_id": 1000,
+            "code": "BREAD",
+            "description": "Bread Slicer",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1098,
+            "parent_asset_type_id": 1000,
+            "code": "CHIPC",
+            "description": "Chip Cutter",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1099,
+            "parent_asset_type_id": 1000,
+            "code": "BURN",
+            "description": "Burner Gas Griller",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1100,
+            "parent_asset_type_id": 1000,
+            "code": "POTP",
+            "description": "Potato Peeler",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1101,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_GRILL",
+            "description": "Griller / Warmer",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-05-29T12:46:45.703"
+        },
+        {
+            "id": 1102,
+            "parent_asset_type_id": 1000,
+            "code": "BUILD",
+            "description": "Buildings",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1104,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_SUB",
+            "description": "Fuel Systems Submersible Pump",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:49.277"
+        },
+        {
+            "id": 1106,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_ABDU",
+            "description": "Ambiant Display Unit",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:41.433"
+        },
+        {
+            "id": 1107,
+            "parent_asset_type_id": 1000,
+            "code": "BUND",
+            "description": "Bun Divider",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1108,
+            "parent_asset_type_id": 1000,
+            "code": "CHIPD",
+            "description": "Chip Drip Tray",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1109,
+            "parent_asset_type_id": 1000,
+            "code": "FOODW",
+            "description": "Food Wrapper",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1110,
+            "parent_asset_type_id": 1000,
+            "code": "BREADDIV",
+            "description": "Dough Divider",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1111,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_COFF",
+            "description": "Coffee Dispenser",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:50.417"
+        },
+        {
+            "id": 1112,
+            "parent_asset_type_id": 1000,
+            "code": "TOAST",
+            "description": "Toaster",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1113,
+            "parent_asset_type_id": 1,
+            "code": "DUMMY",
+            "description": "Dummy Asset",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2014-01-04T08:43:33.9"
+        },
+        {
+            "id": 1114,
+            "parent_asset_type_id": 1,
+            "code": "HSSE",
+            "description": "HSSE",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1115,
+            "parent_asset_type_id": 1,
+            "code": "LANDB",
+            "description": "LANDBANK",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1117,
+            "parent_asset_type_id": 1,
+            "code": "COMPLAINT",
+            "description": "COMPLAINT",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1118,
+            "parent_asset_type_id": 1000,
+            "code": "BM",
+            "description": "Bainmarie",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1353,
+            "parent_asset_type_id": 1,
+            "code": "FMF",
+            "description": "FMC Management Fee",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1399,
+            "parent_asset_type_id": 1,
+            "code": "MAT",
+            "description": "STORE, MATERIAL AND COURIER FEES",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2014-01-05T06:09:24.247"
+        },
+        {
+            "id": 1412,
+            "parent_asset_type_id": 1000,
+            "code": "BCAKE",
+            "description": "Brazilian Cake Display",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1413,
+            "parent_asset_type_id": 1000,
+            "code": "BCOF",
+            "description": "Brazilian Coffee Machine",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1414,
+            "parent_asset_type_id": 1000,
+            "code": "BMIC",
+            "description": "Brazilian Microwave",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1415,
+            "parent_asset_type_id": 1000,
+            "code": "BOVE",
+            "description": "Brazilian Oven",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1416,
+            "parent_asset_type_id": 1000,
+            "code": "BPIE",
+            "description": "Brazilian Pie Warmer",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1417,
+            "parent_asset_type_id": 1000,
+            "code": "BPLA",
+            "description": "Brazilian Plasma Screen",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1418,
+            "parent_asset_type_id": 1000,
+            "code": "BPRO",
+            "description": "Brazilian Prover",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1419,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_GAUG",
+            "description": "Tank Gauge (ATG)",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:51.557"
+        },
+        {
+            "id": 1420,
+            "parent_asset_type_id": 1000,
+            "code": "BICEM",
+            "description": "Brazilian Ice Machine",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1421,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_BLEN",
+            "description": "Blender",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-05-29T12:38:07.79"
+        },
+        {
+            "id": 1422,
+            "parent_asset_type_id": 1000,
+            "code": "BCHFR",
+            "description": "Brazilian Chest Freezer",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1423,
+            "parent_asset_type_id": 1000,
+            "code": "BUCFR",
+            "description": "Brazilian UnderCounter Freezer",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1424,
+            "parent_asset_type_id": 1,
+            "code": "COMMS",
+            "description": "Commercial Site",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2014-01-04T06:22:58.26"
+        },
+        {
+            "id": 1425,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_GRIN",
+            "description": "Grinder",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-05-29T12:38:17.617"
+        },
+        {
+            "id": 1426,
+            "parent_asset_type_id": 1000,
+            "code": "BSCAL",
+            "description": "Brazilian Scale",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1493,
+            "parent_asset_type_id": 1,
+            "code": "CS",
+            "description": "Commercial Maintenance",
+            "development_status": 7,
+            "record_type": 0,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1494,
+            "parent_asset_type_id": 1493,
+            "code": "VALVES",
+            "description": "Valves",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1495,
+            "parent_asset_type_id": 1494,
+            "code": "1495",
+            "description": "Pressure Relief Valve",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1496,
+            "parent_asset_type_id": 1494,
+            "code": "1496",
+            "description": "Thermal Relief Valve",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1497,
+            "parent_asset_type_id": 1494,
+            "code": "1497",
+            "description": "Non-Return Valve",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1498,
+            "parent_asset_type_id": 1493,
+            "code": "PUMPSS",
+            "description": "Pumps",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1499,
+            "parent_asset_type_id": 1498,
+            "code": "1499",
+            "description": "Centrifugal Pump",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1500,
+            "parent_asset_type_id": 1498,
+            "code": "1500",
+            "description": "Gear Pump",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1501,
+            "parent_asset_type_id": 1498,
+            "code": "1501",
+            "description": "Air Pump",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1502,
+            "parent_asset_type_id": 1493,
+            "code": "1502",
+            "description": "Coupling",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1503,
+            "parent_asset_type_id": 1493,
+            "code": "MEASD",
+            "description": "Measuring Device",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1504,
+            "parent_asset_type_id": 1503,
+            "code": "1504",
+            "description": "Meter",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1505,
+            "parent_asset_type_id": 1493,
+            "code": "TANKS",
+            "description": "Tank",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1506,
+            "parent_asset_type_id": 1505,
+            "code": "1506",
+            "description": "Above Ground Tank",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1509,
+            "parent_asset_type_id": 1493,
+            "code": "1509",
+            "description": "Hose",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1510,
+            "parent_asset_type_id": 1493,
+            "code": "FILTERS",
+            "description": "Filters",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1511,
+            "parent_asset_type_id": 1510,
+            "code": "1511",
+            "description": "Eliminator",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1512,
+            "parent_asset_type_id": 1510,
+            "code": "1512",
+            "description": "Strainer",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1513,
+            "parent_asset_type_id": 1510,
+            "code": "1513",
+            "description": "Filter",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1515,
+            "parent_asset_type_id": 1494,
+            "code": "1515",
+            "description": "Ball Valve",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1516,
+            "parent_asset_type_id": 1494,
+            "code": "1516",
+            "description": "Overfill protection Valve",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1517,
+            "parent_asset_type_id": 1505,
+            "code": "1517",
+            "description": "Underground Tank",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1518,
+            "parent_asset_type_id": 1000,
+            "code": "SPLA",
+            "description": "Select Plasma Screen",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1519,
+            "parent_asset_type_id": 1493,
+            "code": "COMM_BOT",
+            "description": "Commercial Botswana",
+            "development_status": 7,
+            "record_type": 0,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1521,
+            "parent_asset_type_id": 1519,
+            "code": "Meter_BOT",
+            "description": "Meter_BOT",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1525,
+            "parent_asset_type_id": 1,
+            "code": "FMR",
+            "description": "FMC Remittance",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1526,
+            "parent_asset_type_id": 1,
+            "code": "PEN",
+            "description": "Penalties",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1527,
+            "parent_asset_type_id": 1001,
+            "code": "PRAGMA",
+            "description": "PRAGMA",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T06:21:28.04"
+        },
+        {
+            "id": 1528,
+            "parent_asset_type_id": 1000,
+            "code": "PRAG",
+            "description": "PRAGMA",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1529,
+            "parent_asset_type_id": 1,
+            "code": "PRA",
+            "description": "PRAGMA",
+            "development_status": 7,
+            "record_type": 0,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1534,
+            "parent_asset_type_id": 1,
+            "code": "RET_DM",
+            "description": "Retail Dummy",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1537,
+            "parent_asset_type_id": 1001,
+            "code": "RET_FESV",
+            "description": "Field Engineer Site Visit",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T06:21:28.04"
+        },
+        {
+            "id": 1539,
+            "parent_asset_type_id": 1001,
+            "code": "TEST",
+            "description": "Test",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T06:21:28.04"
+        },
+        {
+            "id": 1540,
+            "parent_asset_type_id": 1000,
+            "code": "FESV",
+            "description": "Field Engineer Site Visit",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1543,
+            "parent_asset_type_id": 1000,
+            "code": "FILCOUP",
+            "description": "Filler Couplings",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1547,
+            "parent_asset_type_id": 1,
+            "code": "WAR",
+            "description": "Warranty",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2014-01-04T08:44:05.027"
+        },
+        {
+            "id": 1548,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_METR",
+            "description": "Flow Meter",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:44.73"
+        },
+        {
+            "id": 1550,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_PUMS",
+            "description": "Pump Set",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:45.307"
+        },
+        {
+            "id": 1551,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_OFP",
+            "description": "Overfill Protection",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:52.887"
+        },
+        {
+            "id": 1553,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_ANCY",
+            "description": "Ancillary",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:46.463"
+        },
+        {
+            "id": 1555,
+            "parent_asset_type_id": 1000,
+            "code": "DRN_PMP",
+            "description": "Pumping Station",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:54.103"
+        },
+        {
+            "id": 1556,
+            "parent_asset_type_id": 1000,
+            "code": "DRN_PRES",
+            "description": "Sewage Displacement. Pressure system",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:55.48"
+        },
+        {
+            "id": 1557,
+            "parent_asset_type_id": 1000,
+            "code": "DRN_SEPT",
+            "description": "Septic Tank",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:56.62"
+        },
+        {
+            "id": 1558,
+            "parent_asset_type_id": 1000,
+            "code": "DRN_SLUD",
+            "description": "Sludge Trap",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:57.747"
+        },
+        {
+            "id": 1559,
+            "parent_asset_type_id": 1000,
+            "code": "ELC_DUCT",
+            "description": "Ductwork",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:00:58.95"
+        },
+        {
+            "id": 1560,
+            "parent_asset_type_id": 1000,
+            "code": "HVC_FANS",
+            "description": "General Ventilation Fans",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:01:00.323"
+        },
+        {
+            "id": 1561,
+            "parent_asset_type_id": 1000,
+            "code": "PRM_FLAG",
+            "description": "Flag Sign",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:01:01.527"
+        },
+        {
+            "id": 1562,
+            "parent_asset_type_id": 1000,
+            "code": "PRM_PCU",
+            "description": "Price Control Unit",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:01:02.433"
+        },
+        {
+            "id": 1563,
+            "parent_asset_type_id": 1000,
+            "code": "PRM_POLE",
+            "description": "Pole Sign",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:01:03.497"
+        },
+        {
+            "id": 1564,
+            "parent_asset_type_id": 1000,
+            "code": "PRM_PYLO",
+            "description": "Pylon Sign ( Above 14 Mtrs )",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:01:04.653"
+        },
+        {
+            "id": 1565,
+            "parent_asset_type_id": 1000,
+            "code": "REF_COMP",
+            "description": "Condensing Unit",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:54.307"
+        },
+        {
+            "id": 1566,
+            "parent_asset_type_id": 1000,
+            "code": "SAF_CNTR",
+            "description": "Counter Safety (Bullet Proof Area)",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:55.417"
+        },
+        {
+            "id": 1567,
+            "parent_asset_type_id": 1000,
+            "code": "SAF_LOCK",
+            "description": "Locks",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:56.557"
+        },
+        {
+            "id": 1568,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_CWBO",
+            "description": "Car Wash Bollards",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:57.79"
+        },
+        {
+            "id": 1569,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_CWDR",
+            "description": "Car Wash Directional Signs",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:58.683"
+        },
+        {
+            "id": 1570,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_CWIN",
+            "description": "Car Wash Instruction Signs",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:42:59.823"
+        },
+        {
+            "id": 1571,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_ENTY",
+            "description": "Entry/Exit Signs",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:43:01.103"
+        },
+        {
+            "id": 1572,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_NOTE",
+            "description": "Safety/Warning Stickers",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:43:01.807"
+        },
+        {
+            "id": 1573,
+            "parent_asset_type_id": 1000,
+            "code": "SEC_NOZZ",
+            "description": "Dispenser Signs - Nozzles",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:43:02.447"
+        },
+        {
+            "id": 1574,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_TIGH",
+            "description": "Leak Tight Wall",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:01:05.793"
+        },
+        {
+            "id": 1575,
+            "parent_asset_type_id": 1000,
+            "code": "DRN_CW",
+            "description": "Clean Water Drainage",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:01:07.043"
+        },
+        {
+            "id": 1576,
+            "parent_asset_type_id": 1,
+            "code": "RS_DO",
+            "description": "Dealer Owned Site",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2014-05-29T12:38:31.15"
+        },
+        {
+            "id": 1577,
+            "parent_asset_type_id": 1000,
+            "code": "PRM_FASC",
+            "description": "Prime Fascia",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:01:08.183"
+        },
+        {
+            "id": 1578,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_FAT",
+            "description": "Fat Extractor",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:01:09.293"
+        },
+        {
+            "id": 1579,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_FCNT",
+            "description": "Counter",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:43:06.307"
+        },
+        {
+            "id": 1580,
+            "parent_asset_type_id": 1000,
+            "code": "FCT_HGV",
+            "description": "Truck Lanes",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:01:10.357"
+        },
+        {
+            "id": 1581,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_STOR",
+            "description": "External Storage building",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-04-07T10:01:11.433"
+        },
+        {
+            "id": 1582,
+            "parent_asset_type_id": 1000,
+            "code": "BLD_DOM",
+            "description": "Restroom",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:43:08.09"
+        },
+        {
+            "id": 1583,
+            "parent_asset_type_id": 1,
+            "code": "CHAR",
+            "description": "PRAGMA AFRICA CHARGES",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1585,
+            "parent_asset_type_id": 1000,
+            "code": "HVC_COMP",
+            "description": "HVC Condensing Unit",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2014-01-04T08:43:08.637"
+        },
+        {
+            "id": 1586,
+            "parent_asset_type_id": 1000,
+            "code": "FSY_DOPING_SYS",
+            "description": "Doping System",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2009-12-31T22:00:00"
+        },
+        {
+            "id": 1587,
+            "parent_asset_type_id": 1,
+            "code": "SMB",
+            "description": "Service Master Budget",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2014-01-05T06:08:09.373"
+        },
+        {
+            "id": 3589,
+            "parent_asset_type_id": 1,
+            "code": "DB",
+            "description": "DB RESTORE",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 1,
+            "last_confirmed_on": "2014-08-19T12:40:36.46"
+        },
+        {
+            "id": 3593,
+            "parent_asset_type_id": 1000,
+            "code": "*3593",
+            "description": "Blender",
+            "development_status": 0,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": null
+        },
+        {
+            "id": 3594,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_WEGA",
+            "description": "WEGA ESPRESSO MACHINE",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2015-01-14T08:00:11.527"
+        },
+        {
+            "id": 3595,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_DELL",
+            "description": "DELLA CORTE ESPRESSO MACHINE",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2015-01-14T07:59:46.497"
+        },
+        {
+            "id": 3596,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_THER",
+            "description": "THERMOPLAN",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2015-01-14T07:59:59.917"
+        },
+        {
+            "id": 3597,
+            "parent_asset_type_id": 1032,
+            "code": "FOD_SCALE",
+            "description": "Electronic Scales",
+            "development_status": 2,
+            "record_type": 1,
+            "tree_level": 3,
+            "last_confirmed_on": "2015-10-05T12:33:53.727"
+        },
+        {
+            "id": 3598,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_TOAST",
+            "description": "Sandwich Toaster",
+            "development_status": 7,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": "2015-10-05T12:35:25.197"
+        },
+        {
+            "id": 3599,
+            "parent_asset_type_id": 1000,
+            "code": "FOD_SCALES",
+            "description": "Electronic Scale",
+            "development_status": 0,
+            "record_type": 1,
+            "tree_level": 2,
+            "last_confirmed_on": null
+        }
+    ]
+}
