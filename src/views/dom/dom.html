@@ -10,6 +10,7 @@
         <button click.delegate="time($event)">Time</button>
     </div>
     <div>Duration: ${duration}</div>
-    <ul id="itemsContainer">
+    <ul id="itemsContainer" if.bind="data">
+        <li virtual-repeat.for="item of data">${item.code}</li>
     </ul>
 </template>

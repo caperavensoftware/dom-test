@@ -135,23 +135,19 @@ export class Dom {
     }
 
     time() {
-        const start: any = new Date();
-        const domArray = [];
-
+        const fragment = document.createDocumentFragment();
         requestAnimationFrame(() => {
             for(let item of this.data) {
-                const listItem = document.createElement("li");
-                listItem.innerText = item.code;
-                domArray.push(listItem);
+                 const listItem = document.createElement("li");
+                 listItem.innerText = item.code;
+                 fragment.appendChild(listItem);
             }
-
-            const end: any = new Date();
-            console.log(`duration ${(end - start) * 0.001} seconds to process ${domArray.length} items`);
         });
 
         requestAnimationFrame(() => {
-            this.printArrayToDom(domArray);
-        })
+            this.container.appendChild(fragment);
+            console.log("done");
+        });
     }
 
     // printArrayToDom(domArray) {

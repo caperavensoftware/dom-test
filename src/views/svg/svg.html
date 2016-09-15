@@ -1,3 +1,10 @@
 <template>
-    <h2>SVG Performance Test</h2>
+    <h2>SVG Performance Test - ${dataState} (${dataCount} rows)</h2>
+
+    <div class="toolbar">
+        <button click.delegate="clean($event)">Clean</button>
+        <button click.delegate="thrash($event)">Trash</button>
+    </div>
+
+    <div id="container"></div>
 </template>
