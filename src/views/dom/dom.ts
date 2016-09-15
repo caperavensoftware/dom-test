@@ -24,7 +24,7 @@ export class Dom {
         this.container = document.getElementById("itemsContainer");
 
         addEventListener("onmessage", this.onMessage.bind(this));
-        this.dataStore.postMessage("load", "data/assets.json");
+        this.dataStore.postMessage("get-all-data", "data/assets.json");
     }
 
     detached() {
@@ -35,10 +35,7 @@ export class Dom {
         const action = event.detail.action;
         const result = event.detail.result;
 
-        if (action == "load") {
-            this.dataState = result;
-        }
-        else if (action === "get-all-data") {
+        if (action === "get-all-data") {
             this.data = result;
         }
         else if (action === "data-count") {

@@ -9,6 +9,7 @@ export class App {
             {route: ['svg'], name: 'svg',      moduleId: 'views/svg/svg',      nav: true, title: 'SVG'},
             {route: ['canvas'], name: 'canvas',      moduleId: 'views/canvas/canvas',      nav: true, title: 'Canvas'},
             {route: ['glsl'], name: 'glsl',      moduleId: 'views/glsl/glsl',      nav: true, title: 'GlSl'},
+            {route: ['tree-test'], name: 'tree-test',      moduleId: 'views/tree-test/tree-test',      nav: true, title: 'Tree Test'},
         ]);
 
         this.router = router;

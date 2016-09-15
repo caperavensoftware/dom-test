@@ -1,23 +1,57 @@
 const messages = {
     load: "load",
     count: "data-count",
-    getAllData: "get-all-data"
+    getAllData: "get-all-data",
+    getRoot: "data:root",
+    getChildren: "data:children"
 };
 
 class DataStoreManager {
     constructor() {
+        this.actionAfterLoad = null;
         this.data = null;
+        this.load("data/assets.json");
     }
 
     getAllData() {
-        postMessage({
-            action: messages.getAllData,
-            result: this.data
-        });
+        if (this.data) {
+            postMessage({
+                action: messages.getAllData,
+                result: this.data
+            });
+
+            this.getDataCount();
+        }
+        else {
+            this.actionAfterLoad = this.getAllData;
+        }
     }
 
-    getDataRange() {
+    getRootData() {
+        if (this.data) {
+            const result = this.data.filter((element) => {
+                return element.tree_level == 0;
+            });
 
+            postMessage({
+                action: messages.getRoot,
+                result: result
+            })
+        }
+        else {
+            this.actionAfterLoad = this.getRootData;
+        }
+    }
+
+    getChildren(parentId) {
+        const result = this.data.filter((element) => {
+           return element.parent_asset_id == parentId;
+        });
+
+        postMessage({
+            action: messages.getChildren,
+            result: result
+        })
     }
 
     getDataCount() {
@@ -36,7 +70,6 @@ class DataStoreManager {
 
     load(params) {
         const store = this;
-
         fetch(params)
             .then(function(response) {
                 return response.text();
@@ -47,8 +80,11 @@ class DataStoreManager {
                     action: messages.load,
                     result: "done"
                 });
-                store.getDataCount();
-                store.getAllData();
+
+                if (store.actionAfterLoad) {
+                    store.actionAfterLoad();
+                    store.actionAfterLoad = null;
+                }
             })
             .catch(function(error) {
                 console.error(error.message);
@@ -70,5 +106,11 @@ onmessage = function(e) {
     }
     else if (action == messages.getAllData) {
         storeManager.getAllData()
+    }
+    else if (action === messages.getRoot) {
+        storeManager.getRootData()
+    }
+    else if (action === messages.getChildren){
+        storeManager.getChildren(parameters);
     }
 };

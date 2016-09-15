@@ -1,0 +1,14 @@
+<template>
+    <h2>Tree Test)</h2>
+
+    <ul id="container" aria-role="tree" if.bind="data">
+        <li virtual-repeat.for="item of data"
+            style="margin-left: ${item.tree_level * 2}rem"
+            aria-role="treeitem"
+            aria-level.bind="item.tree_level"
+            data-id.bind="item.id"
+            click.delegate="itemSelected($event)">
+            ${item.code}
+        </li>
+    </ul>
+</template>
